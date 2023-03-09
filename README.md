@@ -7,7 +7,7 @@ Learning Data Structure & Algorithms and improve my coding skills with Interview
 | No. | Problems          | Difficulty | Links                                            | Status |
 | :-: | ----------------- | :--------: | ------------------------------------------------ | :----: |
 | 1.  | Two Sum           |    Easy    | https://leetcode.com/problems/two-sum/           |   ✅   |
-| 2.  | Palindrome Number |    Easy    | https://leetcode.com/problems/palindrome-number/ |   ❎   |
+| 2.  | Palindrome Number |    Easy    | https://leetcode.com/problems/palindrome-number/ |   ✅   |
 
 ## Progress
 
